@@ -1,13 +1,13 @@
 ### Welcome to Autumn of Open Source 2020! 🤗 (Registrations still open)
 
-**For participation, please visit** : https://aos.sanscript.tech/
+**For participation, please visit**: https://aos.sanscript.tech/
 
 **Here are some guidelines you need to follow for contributions.**
 
-- Please **register** for the event to contribute and join our slack channel  **(_mandatory_)**. You will receive a confirmation mail and link for joining slack channel through the mail.
+- Please **register** for the event to contribute and join our slack channel  **(_mandatory_)**. You will receive a confirmation mail and link for joining the slack channel through the mail.
 - Please **specify your full name** on your GitHub profile for review.
 - Each participant will be assigned **2 issues (max)** at a time to work.
-- Participants have **7 days** to complete issues.
+- Participants have **7 days** to complete the issues.
 - Participants have to **comment on issues** they would like to work on, and mentors will assign you.
 - Issues will be assigned on a **first-come, first-serve basis.**
 - Participants can also open their issues, but it needs to be verified and labelled by a mentor.
@@ -30,7 +30,7 @@
   - use case.
   - sample input and output.
   - for issues labelled with medium or high, please add relevant output images in a seperate folder.
-  - please add all the images in a separate folder to make you contribution look clean.
+  - please add all the images in a separate folder to make your contribution look clean.
 
 _The Event will end on **20 November 2020**.
 We will provide a **certificate** of contribution to the participant with at least **one pull request merged.**_
